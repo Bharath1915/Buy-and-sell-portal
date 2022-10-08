@@ -1,2 +1,2 @@
 # Buy-and-sell-portal
-A part of BTech Minor Project, here the people can sell their products and customers can buy them through website.
+Web development project, in this project we provide interface for people to sell their products and customers can buy them through website.
